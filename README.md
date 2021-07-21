@@ -13,5 +13,6 @@ This project can serve as a starter project for React with Firebase Authenticati
     *   REACT_APP_FIREBASE_STORAGE_BUCKET
     *   REACT_APP_FIREBASE_MESSAGING_SENDER_ID
     *   REACT_APP_FIREBASE_APP_ID
+    *   REACT_APP_PASSWORD_RESET_RETURN_URL=https://localhost:3000/dashboard or your production app URL
 4.  Save the values you got from Firebase config to these variables.
 5.  Run `npm install && npm start`
